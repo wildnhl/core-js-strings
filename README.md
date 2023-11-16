@@ -38,7 +38,7 @@ The goal of the assignment is to learn how to work with strings in JS.
 
     Remove the throwing error line from function body:
     ```javascript
-        throw new Error('Not implemented'); 
+        throw new Error('Not implemented');
     ```
     Implement the function by any way and verify your solution by running tests until the failed test become passed (green).
 8. Run `npm test` in command line. If everything is OK you can try to resolve the next task.
@@ -67,7 +67,7 @@ https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 - Finally, you need to apply linter's autofix feature in order to fix all linebreaks that was already changed to "CLRF":
 ```
 $ npm run lint -- --fix
-``` 
+```
 
 ___
 The task based on https://github.com/rolling-scopes-school/js-assignments.
